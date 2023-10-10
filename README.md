@@ -18,7 +18,7 @@ Exploring the student type column by filtering for student types as well as stud
 
 # Query the Summary statistics of the diagnostic scores for all students
 Different types of tests were conducted on all students. They include the total score of depression, the total score of social connectedness and the total score of acculturative stress.
-The minimum, maximum and sum of these tests were calculated for comparison between the international and the domestic students. 
+The minimum, maximum, and sum of these tests were calculated for comparison between the international and the domestic students. 
 
 # Summarizing  data for international students only
 The results were narrowed down to international students only through grouping and filtering since international students are the focus of this project.
@@ -31,6 +31,7 @@ barriers, cultural differences, and homesickness.
 # The impact of length of stay 
 The result of the query shows that the more the number of years of stay increases the higher the average score of depression and the lower the score of social connectedness. 
 
+# Conclusion
 In conclusion, this analysis sought to explore the impact of studying in a foreign country on students' mental health, with a focus on international students at a Japanese university. 
 The data revealed several important insights:
 
@@ -43,12 +44,12 @@ The data revealed several important insights:
    - **Acculturative Stress**: The stress associated with adapting to a new culture, including language barriers and cultural differences, can be a significant source of mental distress.
    -  Higher acculturative stress scores are predictive of higher levels of depression.
 
-4. **Data Analysis**: In this project, we analyzed the provided dataset to gain further insights into the mental health of international students:
-   - We calculated summary statistics for depression scores, social connectedness scores, and acculturative stress scores for all students in the dataset.
-   - We narrowed down the analysis to focus specifically on international students to understand their mental health status better.
+4. **Data Analysis**: In this project, the provided dataset was analyzed to gain further insights into the mental health of international students:
+   - The summary statistics were calculated for depression scores, social connectedness scores, and acculturative stress scores for all students in the dataset.
+   - The analysis was narrowed down to focus specifically on international students to understand their mental health status better.
 
 5. **Acculturative Stress**: One of the most notable findings was a significant change in the average acculturative stress score when considering all students (72.38) versus international students (8.04).
-6. This suggests that international students experience a higher level of acculturative stress when compared to domestic students. However, this drastic drop in the average acculturative stress score for international students may be due to data quality issues or a discrepancy in how scores were recorded.
+6. This suggests that international students experience a higher level of acculturative stress when compared to domestic students. 
 
 7. **Length of Stay**: An additional analysis revealed that the length of stay in the host country could be a contributing factor to mental health. As international students spend more years in the host country, their average depression scores tend to increase, indicating a potential negative impact on their mental well-being. Additionally, their social connectedness scores tend to decrease with a longer length of stay.
 
