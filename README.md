@@ -1,5 +1,6 @@
 # Analyzing-Students-Mental-Health-in-SQL
 
+![](mentalhealth.jpg)
 
 # Introduction
 Does going to university  in another country affect your mental health?
