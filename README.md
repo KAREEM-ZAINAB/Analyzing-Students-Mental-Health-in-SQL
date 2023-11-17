@@ -14,7 +14,7 @@ conclusion for international students and if the length of stay is a contributin
 # Exploring the data 
 The number of records in the dataset was counted, to see the number of records for each student type 
 # Filtering to understand the data for each student type
-Exploring the student type column by filtering for student types as well as students with unknown status. 
+Exploring the student type column by filtering for student types and students with unknown status. 
 
 # Query the Summary statistics of the diagnostic scores for all students
 Different types of tests were conducted on all students. They include the total score of depression, the total score of social connectedness and the total score of acculturative stress.
@@ -46,11 +46,11 @@ The data revealed several important insights:
 
 4. **Data Analysis**: In this project, the provided dataset was analyzed to gain further insights into the mental health of international students:
    - The summary statistics were calculated for depression scores, social connectedness scores, and acculturative stress scores for all students in the dataset.
-   - The analysis was narrowed down to focus specifically on international students to understand their mental health status better.
+   - The analysis was narrowed down to focus specifically on international students to better understand their mental health status.
 
 5. **Acculturative Stress**: One of the most notable findings was a significant change in the average acculturative stress score when considering all students (72.38) versus international students (8.04).
 6. This suggests that international students experience a higher level of acculturative stress when compared to domestic students. 
 
 7. **Length of Stay**: An additional analysis revealed that the length of stay in the host country could be a contributing factor to mental health. As international students spend more years in the host country, their average depression scores tend to increase, indicating a potential negative impact on their mental well-being. Additionally, their social connectedness scores tend to decrease with a longer length of stay.
 
-In summary, while international students may experience higher levels of acculturative stress and face unique challenges associated with studying in a foreign country, social connectedness plays a crucial role in mitigating these challenges. It's important for universities and institutions to provide adequate support and resources to help international students adapt to their new environment and build strong social networks. Further research and data validation may be needed to better understand the complex relationship between length of stay, social connectedness, acculturative stress, and mental health among international students.
+In summary, while international students may experience higher levels of acculturative stress and face unique challenges associated with studying in a foreign country, social connectedness plays a crucial role in mitigating these challenges. Universities and institutions need to provide adequate support and resources to help international students adapt to their new environment and build strong social networks. Further research and data validation may be needed to better understand the complex relationship between length of stay, social connectedness, acculturative stress, and mental health among international students.
